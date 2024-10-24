@@ -1,6 +1,3 @@
-package Aruzhan.Assignment3;
-
-
 public class IteratorDemo {
     public static void main(String[] args) {
         String[] products = {"Laptop", "Smartphone", "Tablet", "Monitor"};

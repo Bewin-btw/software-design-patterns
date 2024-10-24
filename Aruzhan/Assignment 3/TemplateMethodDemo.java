@@ -1,5 +1,3 @@
-package Aruzhan.Assignment_3;
-
 public class TemplateMethodDemo {
     public static void main(String[] args) {
         System.out.println("Processing PayPal payment:");
